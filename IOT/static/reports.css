@@ -1,0 +1,6 @@
+{% load static from staticfiles %}
+li{padding-left: 20px;}
+h3{color: blue;
+padding-left: 20px;}
+p{padding-left: 35px;}
+h2{color: deeppink;}
