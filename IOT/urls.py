@@ -10,7 +10,7 @@ urlpatterns = [
     url(r'^achievements/$', views.achievements, name='achievements'),
     url(r'^corebody/$', views.corebody, name='corebody'),
     url(r'^projects/$', views.projects, name='Projects'),
-    url(r'^action/$', views.action, name='ActionPlan'),
+    url(r'^actionplan/$', views.action, name='ActionPlan'),
     url(r'^Reports/$', views.Reports, name='Reports'),
 
 ]
